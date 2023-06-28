@@ -1,0 +1,9 @@
+site_name: My Docs
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Octopus: special-octo-waffle.md
+  - Waffles: waffle-facts.md
